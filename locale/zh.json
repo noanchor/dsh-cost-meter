@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH 花费",
+    "description": "按 token 用量估算当前会话的 DeepSeek API 花费，显示在输入框下方。"
+  }
+}

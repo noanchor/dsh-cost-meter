@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Dependencies / build output
+node_modules/
+dist/
+
+# Distribution artifacts
+*.zip
+*.tgz
+
+# Editors
+.idea/
+.vscode/
+*.swp

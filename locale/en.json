@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Cost",
+    "description": "Estimates the DeepSeek API cost of the current session from its token usage and shows it beside the composer."
+  }
+}
